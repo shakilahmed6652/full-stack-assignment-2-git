@@ -1,4 +1,4 @@
-# 5 Thinks i have learned about git and gitHub
+# 5 Thinks I have learned about git and gitHub
 
 #### 1. Version Control
 
@@ -19,3 +19,11 @@ GitHub facilitates collaboration by allowing contributors to make changes on bra
 #### 5. Commit and Push
 
 Commit saves your changes locally, while push uploads them to a remote repository like GitHub. This separation allows you to experiment and perfect your changes locally before sharing them with others or updating the official project version.
+
+#### 6. Forking
+
+Forking a repository in GitHub creates a personal copy of someone else's project. You can make changes in your own version, experiment, and then submit a pull request to propose these changes to the original project, allowing for open-source collaboration.
+
+#### 7. Issues and Project Management
+
+GitHub provides an issues feature that allows developers to track bugs, suggest new features, or manage tasks. It's a way to organize work, assign tasks to team members, and document project progress, making it a valuable tool for project management.
